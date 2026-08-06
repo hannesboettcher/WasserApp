@@ -6,9 +6,9 @@
       "name": "WasserApp",
       "bundleIdentifier": "com.beispiel.WasserApp",
       "developerName": "Hannes",
-      "version": "1.9",
+      "version": "2,0",
       "versionDate": "2026-08-06T00:00:00Z",
-      "downloadURL": "https://github.com/hannesboettcher/WasserApp/releases/download/V1.9/Payload.ipa",
+      "downloadURL": "https://github.com/hannesboettcher/WasserApp/releases/download/V2.0/Payload.ipa",
       "localizedDescription": "Beta-Version der WasserApp für Tester.",
       "iconURL": "https://placehold.co/180x180.png",
       "size": 0
