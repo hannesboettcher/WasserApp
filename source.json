@@ -10,7 +10,7 @@
       "versionDate": "2026-08-06T00:00:00Z",
       "downloadURL": "https://github.com/hannesboettcher/WasserApp/releases/download/V1.0/Payload.ipa",
       "localizedDescription": "Beta-Version der WasserApp für Tester.",
-      "https://placehold.co/180x180.png"
+      "iconURL": "https://placehold.co/180x180.png"
       "size": 0
     }
   ]
