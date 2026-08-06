@@ -1,0 +1,17 @@
+{
+  "name": "WasserApp Beta",
+  "identifier": "com.beispiel.wasserapp.altsource",
+  "apps": [
+    {
+      "name": "WasserApp",
+      "bundleIdentifier": "com.beispiel.WasserApp",
+      "developerName": "PLATZHALTER_DEIN_NAME",
+      "version": "1.0",
+      "versionDate": "2026-08-06T00:00:00Z",
+      "downloadURL": "https://github.com/PLATZHALTER_GITHUB_NAME/wasserapp-releases/releases/download/v1.0/WasserApp.ipa",
+      "localizedDescription": "Beta-Version der WasserApp für Tester.",
+      "iconURL": "",
+      "size": 0
+    }
+  ]
+}
