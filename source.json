@@ -5,10 +5,10 @@
     {
       "name": "WasserApp",
       "bundleIdentifier": "com.beispiel.WasserApp",
-      "developerName": "PLATZHALTER_DEIN_NAME",
+      "developerName": "Hannes",
       "version": "1.0",
       "versionDate": "2026-08-06T00:00:00Z",
-      "downloadURL": "https://github.com/PLATZHALTER_GITHUB_NAME/wasserapp-releases/releases/download/v1.0/WasserApp.ipa",
+      "downloadURL": "https://github.com/hannesboettcher/WasserApp/releases/download/V1.0/Payload.ipa",
       "localizedDescription": "Beta-Version der WasserApp für Tester.",
       "iconURL": "",
       "size": 0
